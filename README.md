@@ -24,7 +24,7 @@ Once the application is running, you can perform the following actions:
 ## Example Screenshots
 
 ![Create User](screenshots/create_user.png)
-![Transfer Funds](screenshots/transfer_funds.png)
+![Transfer Funds]([screenshots/transfer_funds.png](https://github.com/MohammedHamza0/BankSystemOOP/blob/main/Screenshot%202025-02-04%20181912.png))
 
 ## Requirements
 
